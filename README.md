@@ -2,8 +2,6 @@
 <h3 align="center">Currently treading the path to become a full-stack developer</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealkwabena" alt="therealkwabena" /></a> </p>
-
 <p align="left">  </p>
 
 - 🔭 I’m currently working on **Universeum Spring Boot Project**
